@@ -8,7 +8,7 @@
 - google-cloud
 - huggingface/diffusers
 
-# Example PIP commands to setup ENV
+# Project Files:
 
 | **Files                 | **Purpose                          |
 |------------------------------|--------------------------------------------|

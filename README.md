@@ -1,10 +1,11 @@
 # vertex-ai-stable-diffusion
-### Script for Deploying HuggingFace Stabel Diffusion on Vertex AI
+### Script for Deploying HuggingFace Stable Diffusion on Vertex AI
 
 # Requirements:
 - docker
 - torch
-- orchserve
+- torchserve
+- google-cloud
 - huggingface/diffusers
 
 # Example PIP commands to setup ENV

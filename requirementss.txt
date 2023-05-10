@@ -1,0 +1,12 @@
+python-dotenv==0.21.0
+diffusers==0.16.0
+torch==1.13.1
+transformers==4.28.0
+accelerate==0.18.0
+nvgpu==0.10.0
+google-cloud-storage==2.6.0
+google-cloud-aiplatform==1.18.0
+
+# Can be fixed here or from the base image of the container
+torchserve==0.7.0
+torch-model-archiver==0.7.0
